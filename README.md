@@ -1,5 +1,4 @@
 # 2023_Git_Prac
-# 2023_PASS_WEB
 ## 개발환경
 * Node.js v18.16.1
 ---
